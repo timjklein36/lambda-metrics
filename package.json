@@ -8,6 +8,10 @@
   },
   "author": "Tim Klein",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timjklein36/lambda-metrics"
+  }
   "devDependencies": {
     "aws-sdk": "^2.163.0"
   }
