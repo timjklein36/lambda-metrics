@@ -1,0 +1,14 @@
+{
+  "name": "lambda-metrics",
+  "version": "1.0.0",
+  "description": "Testing implementations of AWS Lamda functions written in JS and Java",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Klein",
+  "license": "MIT",
+  "devDependencies": {
+    "aws-sdk": "^2.163.0"
+  }
+}
